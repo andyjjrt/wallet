@@ -1,24 +1,18 @@
 # wallet
+##V1.0.1
+功能
+- 新增離線偵測及加快頁面載入速度
+- 基礎帳號服務
+- 主頁面會顯示當周日期快速鍵
+- 可以新增/刪除/編輯帳本
+- 有圖表及月曆可以快速蓋覽收支情形
+- 帳本使用標籤分類可以快速紀錄
+- 自定義標籤
+- 收支分類圖表(圓餅圖)
 
-## Project setup
-```
-npm install
-```
+實作中或規劃中的功能
+- 使用標籤選擇器分類帳目顯示
+- 帳號設定服務
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#[使用記帳程式](http://andyjjrt.github.io/wallet "使用記帳程式")
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
