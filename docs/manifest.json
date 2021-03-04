@@ -1,0 +1,18 @@
+{
+    "name": "記帳",
+    "short_name": "記帳",
+    "display": "standalone",
+    "background_color": "#fffcf0",
+    "description": "",
+    "icons": [
+      {
+      "src": "./favicon.ico",
+      "sizes": "256x256",
+      "type": "image/png"
+      }
+    ],
+    "orientation": "portrait",
+    "theme_color": "#ffffff",
+    "lang": "zh-Hant-TW"
+  }
+  
