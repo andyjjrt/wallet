@@ -1,18 +1,1 @@
-{
-    "name": "記帳",
-    "short_name": "記帳",
-    "display": "standalone",
-    "background_color": "#fffcf0",
-    "description": "",
-    "icons": [
-      {
-      "src": "./favicon.ico",
-      "sizes": "256x256",
-      "type": "image/png"
-      }
-    ],
-    "orientation": "portrait",
-    "theme_color": "#ffffff",
-    "lang": "zh-Hant-TW"
-  }
-  
+{"name":"Wallet","short_name":"Wallet","theme_color":"#ffffff","icons":[{"src":"./img/icons/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"./img/icons/android-chrome-512x512.png","sizes":"512x512","type":"image/png"},{"src":"./img/icons/android-chrome-maskable-192x192.png","sizes":"192x192","type":"image/png","purpose":"maskable"},{"src":"./img/icons/android-chrome-maskable-512x512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}],"start_url":".","display":"standalone","background_color":"#000000"}
